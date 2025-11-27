@@ -1,0 +1,5 @@
+{
+  "name": "Academic AI Assistant",
+  "description": "An AI-powered assistant for university-level data science and machine learning projects. It helps write LaTeX reports, build ML models, debug Python code, interpret results, and generate high-quality project documentation.",
+  "requestFramePermissions": []
+}
